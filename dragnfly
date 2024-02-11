@@ -1,0 +1,19 @@
+airmon-ng check kill   
+sleep 2
+sudo systemctl start gpsd
+sleep 2
+sudo airmon-ng start wlan0
+sudo airmon-ng start wlan1
+sudo airmon-ng start wlan2
+sudo airmon-ng start wlan3
+sudo airmon-ng start wlan4
+sudo airmon-ng start wlan5
+sudo airmon-ng start wlan6
+sudo airmon-ng start wlan7
+sudo airmon-ng start wlan8
+sleep 2
+sudo kismet -c wlan0mon -c wlan1mon -c wlan2mon -c wlan3mon -c wlan4mon -c wlan5mon -c wlan6mon -c wlan7mon -c wlan8mon
+sleep 3
+firefox --new-window http://localhost:2501/
+
+
