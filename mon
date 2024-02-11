@@ -1,0 +1,116 @@
+#!/bin/bash
+
+# Put each WiFi card into monitor mode one by one with a 2-second delay
+
+# Put wlan0 into monitor mode
+sudo airmon-ng start wlan0
+sleep 2
+
+# Put wlan1 into monitor mode
+sudo airmon-ng start wlan1
+sleep 2
+
+# Put wlan2 into monitor mode
+sudo airmon-ng start wlan2
+sleep 2
+
+# Put wlan3 into monitor mode
+sudo airmon-ng start wlan3
+sleep 2
+
+# Put wlan4 into monitor mode
+sudo airmon-ng start wlan4
+sleep 2
+
+# Put wlan5 into monitor mode
+sudo airmon-ng start wlan5
+sleep 2
+
+# Put wlan6 into monitor mode
+sudo airmon-ng start wlan6
+sleep 2
+
+# Put wlan7 into monitor mode
+sudo airmon-ng start wlan7
+sleep 2
+
+# Put wlan8 into monitor mode
+sudo airmon-ng start wlan8
+sleep 2
+
+# Put wlan9 into monitor mode
+sudo airmon-ng start wlan9
+sleep 2
+
+# Put wlan10 into monitor mode
+sudo airmon-ng start wlan10
+sleep 2
+
+# Put wlan11 into monitor mode
+sudo airmon-ng start wlan11
+sleep 2
+
+# Put wlan12 into monitor mode
+sudo airmon-ng start wlan12
+sleep 2
+
+# Put wlan13 into monitor mode
+sudo airmon-ng start wlan13
+sleep 2
+
+# Put wlan14 into monitor mode
+sudo airmon-ng start wlan14
+sleep 2
+
+# Put wlan15 into monitor mode
+sudo airmon-ng start wlan15
+sleep 2
+
+# Put wlan16 into monitor mode
+sudo airmon-ng start wlan16
+sleep 2
+
+# Put wlan17 into monitor mode
+sudo airmon-ng start wlan17
+sleep 2
+
+# Put wlan18 into monitor mode
+sudo airmon-ng start wlan18
+sleep 2
+
+# Put wlan19 into monitor mode
+sudo airmon-ng start wlan19
+sleep 2
+
+# Put wlan20 into monitor mode
+sudo airmon-ng start wlan20
+sleep 2
+
+# Put wlan21 into monitor mode
+sudo airmon-ng start wlan21
+sleep 2
+
+# Put wlan22 into monitor mode
+sudo airmon-ng start wlan22
+sleep 2
+
+# Put wlan23 into monitor mode
+sudo airmon-ng start wlan23
+sleep 2
+
+# Put wlan24 into monitor mode
+sudo airmon-ng start wlan24
+sleep 2
+
+# Put wlan25 into monitor mode
+sudo airmon-ng start wlan25
+sleep 2
+
+# Put wlan26 into monitor mode
+sudo airmon-ng start wlan26
+sleep 2
+
+# Put wlan27 into monitor mode
+sudo airmon-ng start wlan27
+sleep 2
+
